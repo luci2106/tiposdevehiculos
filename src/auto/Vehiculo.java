@@ -1,4 +1,4 @@
-package com;
+package auto;
 
 import java.time.LocalDate;
 import java.util.Date;

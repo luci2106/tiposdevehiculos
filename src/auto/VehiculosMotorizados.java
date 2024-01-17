@@ -1,7 +1,6 @@
-package com;
+package auto;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class VehiculosMotorizados extends Vehiculo {
     public String tipodecombustible;
