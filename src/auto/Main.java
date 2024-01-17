@@ -1,4 +1,4 @@
-package com;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+package auto;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 import java.time.LocalDate;
@@ -9,23 +9,22 @@ public class Main {
                 VehiculosMotorizados vehiculosMotorizados1 = new VehiculosMotorizados("seat", "c4", LocalDate.now(), "gasolina");
                 vehiculosMotorizados1.mostrarVehiculosMotorizados();
                 System.out.println(vehiculosMotorizados1);
-                /*com.Automovil automovil1= new com.Automovil();
+                auto.Automovil automovil1= new auto.Automovil();
                 Automovil1.mostrarAutomovil();
                 System.out.println(automovil.toString());
-                com.Motocicleta motocicleta1=new com.Motocicleta();
+                auto.Motocicleta motocicleta1=new auto.Motocicleta();
                 moticicleta1.motocicleta();
                 System.out.println(automovil.toString());
-                com.Vehiculo vehiculo1= new com.Vehiculo();
+                auto.Vehiculo vehiculo1= new auto.Vehiculo();
                 System.out.println(vehiculo1.toString());
 
 
 
             }
             }
-                 */
 
-            }
-        }
+
+
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 
